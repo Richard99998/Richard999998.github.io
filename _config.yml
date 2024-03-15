@@ -1,3 +1,7 @@
-theme: jekyll-theme-modernist
-title: 休对故人思故国，且将新火试新茶。诗酒趁年华。
+title:  休对故人思故国，且将新火试新茶。诗酒趁年华
 # 描述
+description: This is my blog
+# 主题风格
+theme: jekyll-theme-modernist
+# markdown增强功能
+markdown: kramdown
